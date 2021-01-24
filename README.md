@@ -1,6 +1,6 @@
 # Pandemic_Data_Hack_2020
 
-Конкурс по анализу рынка труда.
+### Конкурс по анализу рынка труда.
 
 Ссылка на итоговый текст: https://www.overleaf.com/read/sbxjrdkpywvy
 
